@@ -1,3 +1,5 @@
-WORD MATCHER 
+Ingegneria del Software 9 CFU
 
-A PROJECT BY CALI SALVATORE
+Progetto: Word Matcher, Repository GitHub Codice
+
+Calì Salvatore M01/000224
